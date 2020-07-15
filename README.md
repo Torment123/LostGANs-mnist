@@ -36,4 +36,4 @@ python cas.py --sample_path samples/ --epochs 10
 * Synchronized-BatchNorm-PyTorch: [https://github.com/vacancy/Synchronized-BatchNorm-PyTorch](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch)
 * Image Generation from Scene Graphs: [https://github.com/google/sg2im](https://github.com/google/sg2im)
 * Faster R-CNN and Mask R-CNN in PyTorch 1.0: [https://github.com/facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
-* Original implementation COCO and VG: [https://github.com/WillSuen/LostGANs]
+* Original implementation COCO and VG: (https://github.com/WillSuen/LostGANs)
