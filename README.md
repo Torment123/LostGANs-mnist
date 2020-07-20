@@ -6,6 +6,7 @@ This version: MNIST
 
 
 ## Network Structure
+As presented in the LostGAN paper https://github.com/WillSuen/LostGANs
 ![network_structure](./figures/network_structure.png)
 
 
