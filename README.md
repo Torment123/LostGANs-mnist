@@ -1,4 +1,4 @@
-# LostGANs: Image Synthesis From Reconfigurable Layout and Style
+# LostGAN on MNIST
 This work uses the LostGAN architecture on a grid of MNIST digits. Implementation is based on the paper below. 
 (https://arxiv.org/abs/1908.07500)
 
