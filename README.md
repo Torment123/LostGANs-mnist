@@ -30,6 +30,7 @@ python cas.py --sample_path samples/ --epochs 10
 ###### Real images 
 ![](./figures/real_mnist_3x3_grid_epoch_40.png)
 ###### Accuracy plot from 15 to 40 epochs
+Classification Accuracy Score
 ![style_morph](./figures/accuracy.svg)
 
 
